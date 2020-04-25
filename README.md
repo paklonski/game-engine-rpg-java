@@ -1,4 +1,4 @@
-# Game engine for a role-playing game with GUI
+# Game engine for a PRG with GUI
 
 The first JAVA project that was developed as a semester project of JAVA Programming Course at the CTU in Prague.
 
