@@ -1,7 +1,9 @@
 # Game engine for a PRG with GUI
 
 The first JAVA project that was developed as a semester project of JAVA Programming Course at the CTU in Prague.
-
+![Start screen](https://raw.githubusercontent.com/paklonski/game-engine-rpg-java/master/screenshots/screenshot_start.png)
+![Hero choice](https://raw.githubusercontent.com/paklonski/game-engine-rpg-java/master/screenshots/screenshot_herochoice.png)
+![Gameplay](https://raw.githubusercontent.com/paklonski/game-engine-rpg-java/master/screenshots/screenshot_gameplay.png)
 -------------------------------------
 
 **ABOUT THE GAME**     
